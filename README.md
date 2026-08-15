@@ -105,6 +105,32 @@ The database includes:
 * MySQL Workbench
 * SQL
 * GitHub
+  
+📸 Investigation Screenshots
+Evidence Recovered from Room 708
+
+The crime scene contained DNA, a partial fingerprint, a black fiber, a lost access card, and a handwritten note containing the number 214.
+
+
+
+
+Investigation Timeline
+
+CCTV observations and hotel access logs were combined to reconstruct the events of the evening chronologically.
+
+
+
+
+Main People Connected to the Case
+
+Three different individuals are connected to Room 708 through three different forms of evidence.
+
+
+
+
+The Room 214 Clue
+
+The handwritten number 214 leads investigators to a hotel booking connected to Adam Shalev.
 
 ## 🚨 Case Status
 
