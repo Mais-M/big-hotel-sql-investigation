@@ -109,28 +109,33 @@ The database includes:
 📸 Investigation Screenshots
 Evidence Recovered from Room 708
 
+
+
+## 📸 Investigation Screenshots
+
+### Evidence Recovered from Room 708
+
 The crime scene contained DNA, a partial fingerprint, a black fiber, a lost access card, and a handwritten note containing the number 214.
 
+![Evidence from Room 708](./screenshots/01-evidence-room-708.png)
 
-
-
-Investigation Timeline
+### Investigation Timeline
 
 CCTV observations and hotel access logs were combined to reconstruct the events of the evening chronologically.
 
+![Investigation Timeline](./screenshots/02-investigation-timeline.png)
 
-
-
-Main People Connected to the Case
+### Main People Connected to the Case
 
 Three different individuals are connected to Room 708 through three different forms of evidence.
 
+![Main Suspects](./screenshots/03-main-suspects.png)
 
-
-
-The Room 214 Clue
+### The Room 214 Clue
 
 The handwritten number 214 leads investigators to a hotel booking connected to Adam Shalev.
+
+![Room 214 Clue](./screenshots/04-room-214-clue.png)
 
 ## 🚨 Case Status
 
