@@ -99,6 +99,14 @@ The database includes:
 * `fingerprint_profiles`
 * `fingerprint_matches`
 
+## 🧩 Database Design
+
+I also created an EER Diagram in MySQL Workbench to visualize the structure of the database and the relationships between the main entities in the investigation.
+
+The diagram connects people, rooms, bookings, access cards, CCTV logs, evidence, DNA profiles, and fingerprint records.
+
+![BIG Hotel EER Diagram](./screenshots/00-database-eer-diagram.png)
+
 ## 🛠️ Tools
 
 * MySQL
@@ -108,8 +116,6 @@ The database includes:
   
 📸 Investigation Screenshots
 Evidence Recovered from Room 708
-
-
 
 ## 📸 Investigation Screenshots
 
